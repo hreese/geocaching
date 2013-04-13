@@ -1,0 +1,115 @@
+#=============================================================================
+# MacVersion = 1.00
+# MacDescription = Set custom icons for Garmin export
+# Heiko Reese
+#=============================================================================
+# 
+# This script uses nested if-statements to minimize the number of comparisons and decrease runtime
+
+# Set default icon for any waypoints that don't match your if statements.
+$_Symbol = "Geocache"
+
+# Not Found
+If not($d_Found)
+  # Traditional
+  If $d_CacheType="T"
+  # Traditional Micro
+    If $d_Container="Micro"
+      $_Symbol = "Custom 12; Traditional Micro"
+    Else
+      $_Symbol = "Custom  3; Traditional"
+    Endif
+  EndIf
+  # Multi
+  If $d_CacheType="M"
+    $_Symbol = "Custom  4; Multi"
+  EndIf
+  # Mystery
+  If $d_CacheType="U"
+    If $d_HasCorrected=TRUE
+      $_Symbol = "Custom 17; Corrected Mystery"
+    Else
+      $_Symbol = "Custom  5; Mystery"
+    EndIf
+  EndIf
+  # Event
+  If $d_CacheType="E"
+    $_Symbol = "Custom  6; Event"
+  EndIf
+  # CITO
+  If $d_CacheType="C"
+    $_Symbol = "Custom  6; Event"
+  EndIf
+  # Event
+  If $d_CacheType="Z"
+    $_Symbol = "Custom  7; Mega-Event"
+  EndIf
+  # Letterbox
+  If $d_CacheType="B"
+    $_Symbol = "Custom  8; Letterbox"
+  EndIf
+  # Earthcache
+  If $d_CacheType="R"
+    $_Symbol = "Custom  9; Earthcache"
+  EndIf
+  # Webcam
+  If $d_CacheType="W"
+    $_Symbol = "Custom 10; Webcam"
+  EndIf
+  # Virtual
+  If $d_CacheType="V"
+    $_Symbol = "Custom 11; Virtual"
+  EndIf  
+  # WherIGo
+  If $d_CacheType="I"
+    $_Symbol = "Custom 21; WherIGo"
+  EndIf  
+# Cache Found
+Else
+  $_Symbol = "Custom  2; Cache found"
+EndIf
+
+# Unavailable
+If $d_TempDisabled
+  $_Symbol = "Custom  1; Unavailable Cache"
+EndIf
+
+# Archived
+If $d_Archived
+  $_Symbol = "Custom  0; Archived Cache"
+EndIf
+
+#children
+
+# Default Symbol
+$_Symbol = "Golf Course"
+
+# Question to Answer
+if $d_cType = "Question to Answer"
+  $_Symbol = "Custom 13; Waypoint: Question to Answer"
+EndIf
+
+# Reference Point
+if $d_cType = "Reference Point"
+  $_Symbol = "Custom 14; Waypoint: Reference Point"
+EndIf
+
+# Stages of a Multicache
+if $d_cType = "Stages of a Multicache"
+  $_Symbol = "Custom 15; Waypoint: Stages of a Multicache"
+EndIf
+
+# Trailhead
+if $d_cType = "Trailhead"
+  $_Symbol = "Custom 16; Waypoint: Trailhead"
+EndIf
+
+# Parking Area
+if $d_cType = "Parking Area"
+  $_Symbol = "Parking Area"
+EndIf
+
+# Parking
+if $d_cType = "Final Location"
+  $_Symbol = "Custom 19; Final"
+EndIf

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   id="svg4099"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   version="1.0"
+   sodipodi:docname="type=Parking Area.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   style="display:inline">
+  <defs
+     id="defs4101">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective4107" />
+    <inkscape:perspective
+       id="perspective3314"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="40.216698"
+     inkscape:cx="8"
+     inkscape:cy="8"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="true"
+     inkscape:window-width="1918"
+     inkscape:window-height="1114"
+     inkscape:window-x="1"
+     inkscape:window-y="27"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4109"
+       units="px"
+       visible="true"
+       enabled="true"
+       spacingx="0.5px"
+       spacingy="0.5px" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="8,10.074725"
+       id="guide5376" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="6.0659341,8"
+       id="guide5378" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4104">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Heiko Reese &lt;mail@heiko-reese.de&gt;</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:title>Traditional Cache</dc:title>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>geocaching icon traditional</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     style="display:inline"
+     inkscape:label="Traditional Cache">
+    <g
+       id="g3327">
+      <rect
+         rx="0.5"
+         y="1"
+         x="3"
+         height="14"
+         width="10"
+         id="rect3248"
+         style="opacity:1;fill:#0072bd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      <rect
+         rx="0.5"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         id="rect3320"
+         width="10"
+         height="14"
+         x="3"
+         y="1" />
+    </g>
+    <path
+       style="font-size:6px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Helvetica CE;-inkscape-font-specification:Helvetica CE Bold"
+       d="M 5.0417725,10.383268 L 5.0417725,2.6729939 L 8.461568,2.6729939 C 8.91264,2.6730016 9.260563,2.7097172 9.505338,2.7831407 C 9.750103,2.8530825 9.954663,2.9492424 10.119014,3.0716202 C 10.283354,3.1940126 10.421473,3.3338816 10.533375,3.4912268 C 10.645264,3.6450894 10.730932,3.8111837 10.790384,3.98951 C 10.902271,4.3252011 10.958219,4.6906084 10.958227,5.0857321 C 10.958219,5.564788 10.891782,5.9704074 10.758914,6.3025915 C 10.629527,6.6312873 10.445949,6.8900445 10.208179,7.078864 C 9.970398,7.2676901 9.673175,7.4110554 9.316517,7.5089609 C 9.064747,7.578898 8.723815,7.6138652 8.293725,7.6138624 L 6.6520125,7.6138624 L 6.6520125,10.383268 L 5.0417725,10.383268 M 6.6520125,4 L 6.6520125,6.2816113 L 8.178331,6.2816113 C 8.458066,6.2816154 8.683604,6.2326614 8.854948,6.1347488 C 9.02978,6.0368452 9.155662,5.8987246 9.232595,5.7203873 C 9.309519,5.5420595 9.347981,5.340998 9.347986,5.1172029 C 9.347981,4.7710329 9.246575,4.4982888 9.043771,4.2989697 C 8.844454,4.0996628 8.555974,4.0000064 8.178331,4 L 6.6520125,4"
+       id="text3322" />
+  </g>
+</svg>

@@ -1,0 +1,22 @@
+Custom 0 ; Archived Cache
+Custom 1 ; Unavailable Cache
+Custom 2 ; Cache found
+Custom 3 ; Traditional
+Custom 4 ; Multi
+Custom 5 ; Mystery
+Custom 6 ; Event
+Custom 7 ; Mega-Event
+Custom 8 ; Letterbox
+Custom 9 ; Earthcache
+Custom 10; Webcam
+Custom 11; Virtual
+Custom 12; Traditional Micro
+Custom 13; Waypoint: Question to Answer
+Custom 14; Waypoint: Reference Point
+Custom 15; Waypoint: Stages of a Multicache
+Custom 16; Waypoint: Trailhead
+Custom 17; Corrected Mystery
+Custom 18; DNF
+Custom 19; Final 
+Custom 20; People
+Custom 21; WherIGo
